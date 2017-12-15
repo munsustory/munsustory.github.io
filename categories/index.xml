@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 문수리이야기</title>
+    <title>Categories on Hugo Creative Theme</title>
     <link>https://munsustory.github.io/categories/</link>
-    <description>Recent content in Categories on 문수리이야기</description>
+    <description>Recent content in Categories on Hugo Creative Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>UTF-8</language>
+    <language>en-us</language>
     
 	<atom:link href="https://munsustory.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
